@@ -1,5 +1,3 @@
-
-
 // Hello after 4 seconds
 
 // Hello after 8 seconds
